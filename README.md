@@ -24,9 +24,10 @@
 
 Design and prototype a modular, military-grade autonomous surveillance robot optimized for rugged terrain. The robot is capable of navigating uneven surfaces, climbing steep inclines, and carrying payloads like cameras or communication modules.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/38da74ce-5d9a-4563-9878-278da939484c" alt="Project Poster" width="70%" />
+  <a href="https://github.com/user-attachments/assets/38da74ce-5d9a-4563-9878-278da939484c" target="_blank">
+    <img src="https://github.com/user-attachments/assets/38da74ce-5d9a-4563-9878-278da939484c" alt="Project Poster" width="70%" />
+  </a>
 </p>
-
 
 ---
 
@@ -36,10 +37,11 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Inspiration**: NASA Mars Rover
 - **Mechanism**: Rocker-bogie suspension with continuous tracks
 - **Goal**: Passive obstacle traversal and terrain adaptability
- <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c9d882c-017b-4298-83a5-e9436076197f" alt="Build Image" width="50%" />
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/5c9d882c-017b-4298-83a5-e9436076197f" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5c9d882c-017b-4298-83a5-e9436076197f" alt="Build Image" width="50%" />
+  </a>
 </p>
-
 ---
 
 ### 🔹 Version 2 – Triangular Tank Climber
