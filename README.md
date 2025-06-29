@@ -117,6 +117,54 @@ Below are key PCB design stages and layouts developed for the Variable Geometry 
 
 ---
 
+## 🧮 Hand Calculations
+
+Below are the original hand-done calculations including torque estimation, power budget, battery sizing, and mobility analysis.
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/26b96ad9-edd8-47e6-83ae-02cad235f8b1" target="_blank">
+    <img src="https://github.com/user-attachments/assets/26b96ad9-edd8-47e6-83ae-02cad235f8b1" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/7c64e35b-5b04-46d1-9bdd-bc49d8cc4c66" target="_blank">
+    <img src="https://github.com/user-attachments/assets/7c64e35b-5b04-46d1-9bdd-bc49d8cc4c66" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/4d916523-581c-42b2-9f17-ffca78acee05" target="_blank">
+    <img src="https://github.com/user-attachments/assets/4d916523-581c-42b2-9f17-ffca78acee05" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/ef05008d-c4d2-4008-95a2-4907262b0907" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ef05008d-c4d2-4008-95a2-4907262b0907" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/9f22a94f-53ac-4dc0-891d-e934a43d1f35" target="_blank">
+    <img src="https://github.com/user-attachments/assets/9f22a94f-53ac-4dc0-891d-e934a43d1f35" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/37d7e829-433a-4a4f-b6d0-f30fec4edfaf" target="_blank">
+    <img src="https://github.com/user-attachments/assets/37d7e829-433a-4a4f-b6d0-f30fec4edfaf" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/10ca08c5-f9da-4c26-8ece-c2160b54af16" target="_blank">
+    <img src="https://github.com/user-attachments/assets/10ca08c5-f9da-4c26-8ece-c2160b54af16" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/1af4d36a-3d4a-485b-b248-b2aaab820d89" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1af4d36a-3d4a-485b-b248-b2aaab820d89" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/489bf1af-9fca-45e2-a10c-0d61023fed2e" target="_blank">
+    <img src="https://github.com/user-attachments/assets/489bf1af-9fca-45e2-a10c-0d61023fed2e" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/efb2c686-d1fd-4671-9f40-c33daea8444f" target="_blank">
+    <img src="https://github.com/user-attachments/assets/efb2c686-d1fd-4671-9f40-c33daea8444f" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/df65c57a-4be8-4cab-a33e-fe7a52560b9b" target="_blank">
+    <img src="https://github.com/user-attachments/assets/df65c57a-4be8-4cab-a33e-fe7a52560b9b" width="22%" style="display:inline-block; vertical-align:middle; margin:4px;" />
+  </a>
+</div>
+
+---
+
 ## 💡 Inspirations
 
 - **iRobot PackBot** – Military robot used by U.S. Army
