@@ -42,6 +42,7 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
     <img src="https://github.com/user-attachments/assets/5c9d882c-017b-4298-83a5-e9436076197f" alt="Build Image" width="50%" />
   </a>
 </p>
+
 ---
 
 ### 🔹 Version 2 – Triangular Tank Climber
