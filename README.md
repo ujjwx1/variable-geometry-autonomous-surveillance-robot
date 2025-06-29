@@ -36,8 +36,8 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Inspiration**: NASA Mars Rover
 - **Mechanism**: Rocker-bogie suspension with continuous tracks
 - **Goal**: Passive obstacle traversal and terrain adaptability
-- <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c9d882c-017b-4298-83a5-e9436076197f" alt="Build Image" width="70%" />
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/5c9d882c-017b-4298-83a5-e9436076197f" alt="Build Image" width="50%" />
 </p>
 
 ---
@@ -46,7 +46,10 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Inspiration**: Triangular tank-style tracked base
 - **Mechanism**: Compact, incline-optimized geometry
 - **Goal**: Wall climbing and slope traversal
-- ![](images/cad/v2.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6326bd0f-436f-4b77-8c2c-1fd73d06a377" alt="Image 1" width="50%" />
+</p>
+
 
 ---
 
@@ -54,7 +57,10 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Inspiration**: iRobot PackBot military robot
 - **Mechanism**: Triangular tracks + articulated rocker joints
 - **Goal**: Combine climbing ability with articulation for extreme terrain
-- ![](images/cad/v3.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/887b301f-6c58-4035-bdf9-a31087facb82" alt="Image 2" width="50%" />
+</p>
+
 
 ---
 
