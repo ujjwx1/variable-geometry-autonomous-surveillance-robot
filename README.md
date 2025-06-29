@@ -32,7 +32,8 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Inspiration**: NASA Mars Rover
 - **Mechanism**: Rocker-bogie suspension with continuous tracks
 - **Goal**: Passive obstacle traversal and terrain adaptability
-- ![](images/cad/v1.png)
+- ![](![WhatsApp Image 2025-06-30 at 04 45 36_4a9c53e0](https://github.com/user-attachments/assets/05fb9660-95f8-45dc-b005-e796e4535c17)
+)
 
 ---
 
