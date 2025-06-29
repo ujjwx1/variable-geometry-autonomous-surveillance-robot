@@ -23,6 +23,7 @@
 ## 🧭 Project Objective
 
 Design and prototype a modular, military-grade autonomous surveillance robot optimized for rugged terrain. The robot is capable of navigating uneven surfaces, climbing steep inclines, and carrying payloads like cameras or communication modules.
+<img src="https://github.com/user-attachments/assets/38da74ce-5d9a-4563-9878-278da939484c" alt="Project Poster" width="70%"/>
 
 ---
 
@@ -32,9 +33,7 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Inspiration**: NASA Mars Rover
 - **Mechanism**: Rocker-bogie suspension with continuous tracks
 - **Goal**: Passive obstacle traversal and terrain adaptability
-- ![](![WhatsApp Image 2025-06-30 at 04 45 36_4a9c53e0](https://github.com/user-attachments/assets/05fb9660-95f8-45dc-b005-e796e4535c17)
-)
-
+- 
 ---
 
 ### 🔹 Version 2 – Triangular Tank Climber
