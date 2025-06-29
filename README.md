@@ -86,13 +86,34 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 
 ---
 
-## 📸 Build Gallery
+## 🔌 PCB Design Showcase
 
-| Frame Assembly                  | Initial Electronics Setup         | Outdoor Field Test                |
-|--------------------------------|-----------------------------------|-----------------------------------|
-| ![](images/builds/frame.jpg)   | ![](images/builds/test.jpg)       | ![](images/builds/outdoor.jpg)    |
+Below are key PCB design stages and layouts developed for the Variable Geometry Autonomous Surveillance Robot.
 
-> Includes full-frame photos, wiring test, and live environment trials.
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/365d9e41-6b7b-486d-b0da-be2af93a80a9" target="_blank">
+    <img src="https://github.com/user-attachments/assets/365d9e41-6b7b-486d-b0da-be2af93a80a9" width="25%" style="margin-right: 5px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/d7a998cc-f055-4117-92c8-c332b69184d4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d7a998cc-f055-4117-92c8-c332b69184d4" width="25%" style="margin-right: 5px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/5c5b19e2-41d7-4efe-bfe1-2bb3c4f4a6fc" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5c5b19e2-41d7-4efe-bfe1-2bb3c4f4a6fc" width="25%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f8bf5857-ccbb-40c8-bc9e-50a255db85f1" target="_blank">
+    <img src="https://github.com/user-attachments/assets/f8bf5857-ccbb-40c8-bc9e-50a255db85f1" width="25%" style="margin-right: 5px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/36d409b2-6807-4c66-88c0-4c4944c03765" target="_blank">
+    <img src="https://github.com/user-attachments/assets/36d409b2-6807-4c66-88c0-4c4944c03765" width="25%" style="margin-right: 5px;" />
+  </a>
+  <a href="https://github.com/user-attachments/assets/e83d1c20-3828-403f-aba1-49dd8281c2d4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e83d1c20-3828-403f-aba1-49dd8281c2d4" width="25%" />
+  </a>
+</p>
+
 
 ---
 
