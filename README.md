@@ -47,7 +47,9 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Mechanism**: Compact, incline-optimized geometry
 - **Goal**: Wall climbing and slope traversal
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6326bd0f-436f-4b77-8c2c-1fd73d06a377" alt="Image 1" width="50%" />
+  <a href="https://github.com/user-attachments/assets/6326bd0f-436f-4b77-8c2c-1fd73d06a377" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6326bd0f-436f-4b77-8c2c-1fd73d06a377" alt="Image 1" width="50%" />
+  </a>
 </p>
 
 
@@ -58,7 +60,9 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - **Mechanism**: Triangular tracks + articulated rocker joints
 - **Goal**: Combine climbing ability with articulation for extreme terrain
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/887b301f-6c58-4035-bdf9-a31087facb82" alt="Image 2" width="50%" />
+  <a href="https://github.com/user-attachments/assets/887b301f-6c58-4035-bdf9-a31087facb82" target="_blank">
+    <img src="https://github.com/user-attachments/assets/887b301f-6c58-4035-bdf9-a31087facb82" alt="Image 2" width="50%" />
+  </a>
 </p>
 
 
