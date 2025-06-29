@@ -55,15 +55,14 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 ## 🛠️ CAD & PCB Design
 
 ### 🧱 CAD Models
-- Created using [Fusion 360 / SolidWorks / CATIA — choose your tool]
+- Created using SolidWorks 
 - Detailed assemblies and subcomponents for all three versions
 - Modular design allowing multiple physical configurations
 
 ### 🔌 PCB Design
-- Custom motor controller PCB designed in KiCAD
+- Custom motor controller PCB designed in K
 - Microcontroller: ESP32
-- Motor Driver: DRV8833 dual H-bridge
-- Power: 3S LiPo regulated via buck converter
+- Power: Custom Battery
 - ![](images/pcb_layout.png)
 
 ---
