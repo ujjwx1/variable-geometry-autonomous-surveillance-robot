@@ -1,4 +1,4 @@
-# 🤖 Variable Geometry Autonomous Surveillance Robot – for Defence Purposes  t  
+# 🤖 Variable Geometry Autonomous Surveillance Robot – for Defence Purposes 
 **Author**: Ujjwal Aggarwal  
 **Institution**: Thapar Institute of Engineering and Technology  
 **Design Year**: 2024  
@@ -23,7 +23,10 @@
 ## 🧭 Project Objective
 
 Design and prototype a modular, military-grade autonomous surveillance robot optimized for rugged terrain. The robot is capable of navigating uneven surfaces, climbing steep inclines, and carrying payloads like cameras or communication modules.
-<img src="https://github.com/user-attachments/assets/38da74ce-5d9a-4563-9878-278da939484c" alt="Project Poster" width="70%"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38da74ce-5d9a-4563-9878-278da939484c" alt="Project Poster" width="70%" />
+</p>
+
 
 ---
 
