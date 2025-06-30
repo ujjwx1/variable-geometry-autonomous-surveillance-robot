@@ -79,11 +79,9 @@ Design and prototype a modular, military-grade autonomous surveillance robot opt
 - Modular design allowing multiple physical configurations
 
 ### 🔌 PCB Design
-- Custom motor controller PCB designed in K
+- Custom motor controller PCB designed in EasyEDA
 - Microcontroller: ESP32
 - Power: Custom Battery
-- ![](images/pcb_layout.png)
-
 ---
 
 ## 🧠 PCB Design Showcase
