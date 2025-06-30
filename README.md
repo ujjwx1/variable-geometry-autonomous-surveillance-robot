@@ -185,6 +185,30 @@ Preliminary mechanical and electrical calculations supporting design decisions l
 
 ## 🗂️ Repository Structure
 
+📦 variable-geometry-autonomous-surveillance-robot/
+│
+├── 📄 README.md                        # Project overview and documentation
+├── 📄 LICENSE                          # MIT License for code, CAD, PCB
+├── 📄 LICENSE_MEDIA.txt                # CC BY 4.0 License for media & documentation
+│
+├── 📁 PCB_Design_PDFs/                 # All schematics and PCB layout PDFs
+│   ├── FINAL.pdf
+│   ├── PCB_PCB_PCB_DEFENCE-rasp_4.pdf
+│   ├── Schematic-DEfence_2024-07-11-A.pdf
+│   ├── SchematicDEfence_2024-07-11-B.pdf
+│   └── Schematic_PIR-CAM-MODULE.pdf
+│
+├── 📁 SolidWorks Designs/             # Full 3D CAD designs (zipped folders)
+│   ├── 📁 V1_RockerBogie/
+│   │   └── Rocker Bogie defence Assembly.zip
+│   │
+│   ├── 📁 V2_TriangleTracks/
+│   │   └── final tank assembly.zip
+│   │
+│   └── 📁 V3_Hybrid/
+│       └── PackBot Final CAD.zip
+
+
 ---
 
 ## ⚠️ Author Credit & Academic Use Policy
