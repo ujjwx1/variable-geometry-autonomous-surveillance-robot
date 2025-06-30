@@ -187,12 +187,23 @@ Preliminary mechanical and electrical calculations supporting design decisions l
 
 ---
 
-### ⚠️ Academic Use & Citation Notice
+## ⚠️ Author Credit & Academic Use Policy
 
-If you use this project in any academic research, publication, or presentation, please cite:
+This repository and all associated designs are the result of significant original research, engineering, and documentation by:
 
-> **Aggarwal, Ujjwal. “Variable Geometry Autonomous Surveillance Robot.” 2024.**
+> **Ujjwal Aggarwal (2024)**  
+> Project: *Variable Geometry Autonomous Surveillance Robot*
 
-- Code, hardware, CAD, and PCB files are released under the [MIT License](LICENSE).
-- All documentation, media, images, and design PDFs are covered by [CC BY 4.0 License](LICENSE_MEDIA.txt).
+This work is licensed under [MIT](LICENSE) (for code, CAD, PCB) and [CC BY 4.0](LICENSE_MEDIA.txt) (for documentation/media).
+
+### 📚 Academic Use Clause
+
+If you build upon, publish, or reference this work in a scientific or academic context, you **must**:
+
+- Provide proper citation to this repository
+- Include author credit in any written or visual publication
+- Contact me if collaboration or co-authorship is appropriate
+
+📩 Contact: uaggarwal1_be23@thapar.edu
+
 
