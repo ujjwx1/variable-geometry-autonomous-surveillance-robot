@@ -8,13 +8,16 @@
 
 ## 🎬 Project Demo Video
 
+## 🎬 Project Demo Video
+
 <p align="center">
   <a href="https://youtu.be/uJizAw1gi1c" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c52e9739-5b62-4fc7-9d69-e498af2e01a1" width="600" alt="Watch the Project Video">
+    <img src="https://github.com/user-attachments/assets/c52e9739-5b62-4fc7-9d69-e498af2e01a1" width="600" alt="▶️ Click to watch the project video on YouTube">
   </a>
+  <br>
+  <sub><em>Click the image above to watch the full demo video</em> ▶️</sub>
 </p>
 
-🎥 [Click here to watch the full project walkthrough](https://youtu.be/uJizAw1gi1c)
 ---
 
 ## 🧭 Project Objective
