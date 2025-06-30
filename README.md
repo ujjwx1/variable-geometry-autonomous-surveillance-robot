@@ -194,7 +194,7 @@ This repository and all associated designs are the result of significant origina
 > **Ujjwal Aggarwal (2024)**  
 > Project: *Variable Geometry Autonomous Surveillance Robot*
 
-This work is licensed under [MIT](LICENSE) (for code, CAD, PCB) and [CC BY 4.0](LICENSE_MEDIA.txt) (for documentation/media).
+This work is licensed under [MIT](LICENSE) (for CAD, PCB) and [CC BY 4.0](LICENSE_MEDIA.txt) (for documentation/media).
 
 ### 📚 Academic Use Clause
 
