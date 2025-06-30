@@ -8,15 +8,15 @@
 
 ## 🎬 Project Demo Video
 
+## 🎬 Project Demo Video
+
 <p align="center">
-  <a href="https://drive.google.com/file/d/1ftz_JRLJ6LhsW8qkGFzek8BeCZi9EWui/view" target="_blank">
-    <img src="images/video_thumbnail.jpg" width="70%" alt="Watch the Project Video"/>
+  <a href="https://youtu.be/uJizAw1gi1c" target="_blank">
+    <img src="https://raw.githubusercontent.com/ujjwx1/variable-geometry-autonomous-surveillance-robot/main/assets/video-thumbnail.png" width="600" alt="Watch the Project Video">
   </a>
 </p>
 
-<p align="center">
-  <strong><a href="https://drive.google.com/file/d/1ftz_JRLJ6LhsW8qkGFzek8BeCZi9EWui/view">🎥 Click here to watch the full project walkthrough</a></strong>
-</p>
+🎥 [Click here to watch the full project walkthrough](https://youtu.be/uJizAw1gi1c)
 
 ---
 
